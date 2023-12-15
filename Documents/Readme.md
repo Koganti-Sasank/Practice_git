@@ -1,2 +1,2 @@
-## Practising git commands Creation date:- 15-12-23
+## Practising git commands Creation Date:- 15-12-23
 
